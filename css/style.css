@@ -1,0 +1,28 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+canvas{
+    position: absolute;
+    border: 1px solid gray;
+}
+
+#controls{
+    top:100px;
+    left:5px;
+    padding:10px;
+    border: 1px solid gray;
+    background-color: rgb(164, 163, 243, 1);
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px lightskyblue;
+}
+
+.lightBorder {
+    border: 2px solid white;
+}
+
+p{
+    margin: 4px;
+}
